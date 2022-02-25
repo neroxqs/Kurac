@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xEF7bd62D2Be0f3b702F054C1e377755cBE7Bf47f",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xEF7bd62D2Be0f3b702F054C1e377755cBE7Bf47f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "MATIJA",
+  "SYMBOL": "ASD",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Debeljaca",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/marko-sveqwbogfd",
+  "SHOW_BACKGROUND": true
+}
